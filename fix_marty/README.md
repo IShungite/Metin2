@@ -5,7 +5,6 @@
 - GetMotionFileName: Motion:
 
       - spider_egg have not motlist.txt vnum(2095) folder(spider_egg)
-      - spider_egg accumulation
       - cz_wolf have not motlist.txt vnum(2700) folder(cz_wolf)
       - cz_twoheadedtiger have not motlist.txt vnum(2703) folder (cz_twoheadedtiger)
       - cz_kentauros have not motlist.txt vnum(2706) folder(cz_kentauros)
